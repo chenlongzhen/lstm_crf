@@ -1,0 +1,2 @@
+2019-03-17 09:00:10,681 - train.log - INFO - Reading model parameters from ckpt1\ner.ckpt
+2019-03-24 10:26:32,708 - train.log - INFO - Reading model parameters from ckpt2\ner.ckpt
